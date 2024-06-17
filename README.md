@@ -9,7 +9,7 @@
 
 配置openCV工具库
 
-TFLite模型准备
+[TFLite模型准备](https://github.com/xiaoboluo6/Portrait_Matting_tflite_Android/blob/master/app/src/main/assets/readme.md)
 
 在android studio菜单栏Rebuild Project  
 
