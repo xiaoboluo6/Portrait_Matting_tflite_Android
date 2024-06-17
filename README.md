@@ -9,7 +9,7 @@
 
 配置openCV工具库
 
-将对应的TFLite模型放于
+TFLite模型准备
 
 在android studio菜单栏Rebuild Project  
 
